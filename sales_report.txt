@@ -1,0 +1,22 @@
+SALES REPORT
+==============================
+
+Product: Laptop
+Revenue: Rs.195000
+Average Sale: Rs48750.00
+
+Product: Phone
+Revenue: Rs.91000
+Average Sale: Rs22750.00
+
+Product: Tablet
+Revenue: Rs.66000
+Average Sale: Rs16500.00
+
+Product: Headphones
+Revenue: Rs.13700
+Average Sale: Rs3425.00
+
+==============================
+Overall Revenue: Rs365700
+Best Selling Product: Laptop
