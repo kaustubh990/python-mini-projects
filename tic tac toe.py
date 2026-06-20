@@ -55,10 +55,8 @@ while True:
         print_board(board)
         print(f"Player {current_player} wins!")
         break
-
     if is_draw(board):
         print_board(board)
         print("It's a draw!")
         break
-
     current_player = "O" if current_player == "X" else "X"
