@@ -1,9 +1,4 @@
-#python mini project
-#guess the number
 import random #importing random module to generate random number
-# randNum = random.randint(1, 100)
-# print(randNum)
-
 targetNum = random.randint(1, 100) #generating random number between 1 and 100
 while True:
     userNum = int(input("Guess the number between 1 and 100: ")) #taking user input
