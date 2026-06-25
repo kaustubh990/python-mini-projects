@@ -1,7 +1,7 @@
 import random 
 targetNum = random.randint(1, 100) 
 while True:
-    userNum = int(input("Guess the number between 1 and 100: ")) #taking user input
+    userNum = int(input("Guess the number between 1 and 100: "))
     if userNum==targetNum:
         print("Congratulations! You guessed the number correctly.")
         break
